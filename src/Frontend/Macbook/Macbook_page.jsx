@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Lenovo() {
+function Macbook_page() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function Lenovo() {
   )
 }
 
-export default Lenovo
+export default Macbook_page

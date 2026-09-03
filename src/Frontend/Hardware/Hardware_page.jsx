@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Macbook() {
+function Hardware_page() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function Macbook() {
   )
 }
 
-export default Macbook
+export default Hardware_page
